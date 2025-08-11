@@ -30,9 +30,23 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimostic&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=nimostic&theme=radical)  
+## 📊 GitHub Overview
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nimostic&show_icons=true&theme=radical" alt="nimostic's GitHub stats"/>
+  
+  <!-- Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nimostic&theme=radical" alt="nimostic's GitHub streak"/>
+</p>
+
+---
+
+## 🔝 Most Used Languages
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimostic&layout=compact&theme=radical" alt="nimostic's top languages"/>
+</p>
+ 
 
 ---
 
