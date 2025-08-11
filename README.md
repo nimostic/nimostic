@@ -7,9 +7,10 @@
 ---
 
 ## 🚀 About Me
+🎓 Studying **BSc in Computer Science & Engineering** at **BUBT**, 5th Semester 
 🎓 Currently learning and exploring new technologies  
-💻 I love building projects with HTML, CSS, Tailwind CSS, JavaScript, Node.js, Python, C, C++, MySQL, and Java  
-🎯 Passionate about software engineering and problem-solving (Codeforces enthusiast)  
+💻 Skilled in HTML, CSS, Tailwind CSS, JavaScript, Node.js, Python, C, C++, MySQL, Java 
+🎯 Passionate about software engineering and problem-solving
 🎮 Gamer at heart, and a proud Real Madrid fan 🏆
 
 ---
