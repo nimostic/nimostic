@@ -37,7 +37,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nimostic&show_icons=true&theme=radical" alt="nimostic's GitHub stats"/>
   
   <!-- Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nimostic&theme=radical" alt="nimostic's GitHub streak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=nimostic&theme=radical" alt="nimostic's GitHub streak"/>
+
 </p>
 
 ---
