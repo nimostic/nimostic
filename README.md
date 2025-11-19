@@ -13,7 +13,10 @@
 🎮 Gamer at heart, and a proud Real Madrid fan 🏆
 
 ---
-
+## 🚀 Current Activities 
+- 📚 I’m learning **backend with Node.js & Express**
+  
+---
 ## 🛠 Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,11 +52,13 @@
  
 
 ---
-
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/riyadreverie)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/riyad_reverie)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abunayeemriyad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abunayeemriyad@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801968847197)
+
 
 ---
 
