@@ -1,5 +1,4 @@
-<!-- Banner (যদি পরে বানাও, এখানে ইমেজ লিঙ্ক দিও) -->
-<!-- ![Banner](https://your-banner-link.com) -->
+
 
 # Hi, I'm Abu Nayeem Riyad 👋
 **Aspiring Software Engineer | Problem Solver | Gamer | Real Madrid Fan**
